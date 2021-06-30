@@ -1,0 +1,2 @@
+rootProject.name = "2.2_AboutUs2_Add_user_interactivity"
+include ':app'
